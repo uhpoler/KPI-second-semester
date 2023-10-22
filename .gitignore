@@ -1,0 +1,18 @@
+*.d
+
+/.idea
+/Basics of programming2/code/lab1/.idea
+/Basics of programming2/code/lab1/cmake-build-debug
+/Basics of programming2/code/lab1/x64
+/Basics of programming2/code/lab1/main.sln
+/Basics of programming2/code/lab1/main
+/Basics of programming2/code/lab1/Debug
+/Basics of programming2/code/lab1/.vs
+/Basics of programming2/code/lab1/main.vcxproj
+/Basics of programming2/code/lab1/main.vcxproj.filters
+/Basics of programming2/code/lab1/main.vcxproj.user
+
+
+
+
+
