@@ -1,6 +1,5 @@
 *.d
 
-/.idea
 /Basics of programming2/code/lab1/.idea
 /Basics of programming2/code/lab1/cmake-build-debug
 /Basics of programming2/code/lab1/x64
@@ -23,21 +22,6 @@
 /Basics of programming2/code/lab2/main.vcxproj.user
 /Basics of programming2/code/lab2/phonecalls.bin
 
-/Basics of programming2/code/lab3/x64
-/Basics of programming2/code/lab3/lab3.sln
-/Basics of programming2/code/lab3/Debug
-/Basics of programming2/code/lab3/.vs
-/Basics of programming2/code/lab3/lab3.vcxproj
-/Basics of programming2/code/lab3/lab3.vcxproj.filters
-/Basics of programming2/code/lab3/lab3.vcxproj.user
-
-/Basics of programming2/code/lab4/x64
-/Basics of programming2/code/lab4/lab4.sln
-/Basics of programming2/code/lab4/Debug
-/Basics of programming2/code/lab4/.vs
-/Basics of programming2/code/lab4/lab4.vcxproj
-/Basics of programming2/code/lab4/lab4.vcxproj.filters
-/Basics of programming2/code/lab4/lab4.vcxproj.user
 
 
 
